@@ -17,6 +17,7 @@ function Navbar() {
 
       {/* Links */}
       <div className="flex items-center gap-6">
+         
         <Link className="hover:text-gray-300" to="/contact">Contact</Link>
         <Link className="hover:text-gray-300" to="/about">About Us</Link>
         <Link className="hover:text-gray-300" to="/testimonials">Testimonials</Link>
